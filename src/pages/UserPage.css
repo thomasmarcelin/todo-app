@@ -1,0 +1,23 @@
+.centerFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.striked {
+    text-decoration: line-through;
+}
+
+.offset {
+    margin-right: 10px;
+}
+
+.inputWidth {
+    max-width: 400px;
+}
